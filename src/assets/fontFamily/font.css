@@ -1,0 +1,15 @@
+/* 字体样式，不可删除 */
+@font-face {
+  font-family: 'Source Han Sans CN-Medium';
+  src: url('./SourceHanSansSC-Medium.otf') format('woff2'),
+    url('./SourceHanSansSC-Medium.woff') format('woff');
+}
+
+.icon {
+  width: 1em;
+  height: 1em;
+  vertical-align: -0.15em;
+  fill: currentcolor;
+  overflow: hidden;
+  display: inline-block;
+}
